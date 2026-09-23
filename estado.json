@@ -1,4 +1,4 @@
 {
-  "Viernes 2 oct": "ERROR: Page.goto: Timeout 90000ms exceeded.\nCall log:\nnavigating to \"https://www.ticketmaster.co/event/bts-world-tour-venta-general-viernes-2-octubre\", waiting until \"domcontentloaded\"\n",
-  "Sabado 3 oct": "ERROR: Page.goto: Timeout 90000ms exceeded.\nCall log:\nnavigating to \"https://www.ticketmaster.co/event/bts-world-tour-venta-general-sabado-3-octubre\", waiting until \"domcontentloaded\"\n"
+  "Viernes 2 oct": "AGOTADO",
+  "Sabado 3 oct": "AGOTADO"
 }
